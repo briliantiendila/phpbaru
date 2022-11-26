@@ -4,11 +4,11 @@
 Welcome <?php echo $_POST["firstname"]; ?><br>
 Your email address is: <?php echo $_POST["email"]; 
 
-$servername = "ec2-52-70-45-163.compute-1.amazonaws.com";
+$servername = "ec2-3-227-68-43.compute-1.amazonaws.com";
 $port="5432";
-$username = "dodoaucrkueiyb";
-$password = "d0cabcd343805d6858deac56b55b7aa7fe3aa0d1111d9ba64c6b1e8169e26db6";
-$dbname = "dephqj61jf8kuj";
+$username = "beazpocpbbbyki";
+$password = "35bbe4eeb0836ab9e8089724d24ab930f63ea4d48608deb6cd0e3b6054a4c35d";
+$dbname = "dd4qm4frtu033a";
 $firstname=$_POST["firstname"];
 $lastname=$_POST["lastname"];
 $email=$_POST["email"];
